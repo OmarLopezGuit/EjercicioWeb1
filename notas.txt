@@ -1,0 +1,9 @@
+Para ejecutar correctamente el ejercicio #1 es necesario:
+1. Montar Base de datos. Ejecutar Script "script_db.sql".
+El servidor utilizado tenia las siguientes características
+	MySQL
+	usuario: root
+	password: admin
+	puerto: 3306
+2. Adjuntar los archivos en el repositorio en "C:\xampp\htdocs\EjercicioWeb1"
+3. Para el desarrollo del proyecto utilicé XAMPP con "Apache" encendido, y MySQL Server 8.0 + MySQL Workbench
